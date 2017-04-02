@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="black-and-white-i19" size="5.000000 3.598540" />
+    <ImageTarget name="europe-map-countries" size="5.000000 4.758333" />
+    <ImageTarget name="697d2f7677544ad5a746cd070d99fff8" size="5.000000 8.547580" />
+    <ImageTarget name="HIRO" size="5.000000 4.328969" />
+  </Tracking>
+</QCARConfig>
